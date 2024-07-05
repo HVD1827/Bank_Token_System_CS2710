@@ -1,8 +1,9 @@
 # Bank Token System
 
-Implemented Doubly Linked List to represent and compute transactions in a bank.
+Implemented a functionality to represent and process transactions in a bank using Doubly and Singly Linked Lists.
 
-Accounts represented by a singly linked list and transactions by a doubly linked list. Cursor to represent latest transaction which can be moved back to reverse transactions.
+Singly linked lists are used to represent the accounts.
+Doubly linked lists represent the Transactions.
 
 Includes features like:
 
