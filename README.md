@@ -7,8 +7,8 @@ Doubly linked lists represent the Transactions.
 
 Includes features like:
 
-- Insert transaction.
-- Delete transaction.
+- Insert a transaction.
+- Delete a transaction.
 - Print account with highest balance.
-- Print account balance with respect to cursor.
+- Print account balance to which cursor points.
 - Reverse transactions.
