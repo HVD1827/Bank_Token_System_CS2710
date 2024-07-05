@@ -10,5 +10,4 @@ Includes features like:
 - Insert a transaction.
 - Delete a transaction.
 - Print account with highest balance.
-- Print account balance to which cursor points.
 - Reverse transactions.
